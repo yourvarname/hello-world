@@ -1,2 +1,2 @@
 # hello-world
-place foe weird ideas
+place for weird ideas
